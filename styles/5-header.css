@@ -1,0 +1,18 @@
+header {
+    position: relative;
+    height: 70px;
+    width: 100%;
+    background-color: white;
+    border-bottom: 1px solid #CCCCCC;
+}
+header div.logo {
+    position: absolute;
+    width: 145px;
+    height: 60px;
+    background-image: url(../images/icon.jpg);
+    left: 20px;
+}
+.logo img {
+    width: 145px;
+    height: 60px;
+}
